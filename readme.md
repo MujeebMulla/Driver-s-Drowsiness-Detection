@@ -18,9 +18,11 @@ pip install -r requirements.txt
 
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
 
+
 ### Execution 
 To run the code, type `python sample.py`
 
 ```
 python sample.py
 ```
+If any queries regarding project contact admin(mailto:mujeebdrake12@gmail.com)
